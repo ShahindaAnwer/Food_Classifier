@@ -31,4 +31,4 @@ Code is provided in the `food` notebook file.
 
 Data is imported from google drive.
 
-3 Classes: 'apple_pie', 'hamburger', 'pizza'
+3 Classes: `apple_pie`, `hamburger`, `pizza`
