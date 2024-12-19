@@ -4,6 +4,8 @@
 I used transfer learning to obtain better results. The model I used is EfficientNetV2L (trained on the ImageNet dataset).
 
 `accuracy: 0.9950 - loss: 0.1130 - val_accuracy: 0.9531 - val_loss: 3.4628`
+![image](https://github.com/user-attachments/assets/19afed75-d006-4b53-a13e-cbf37c5f51f2)
+
 
 
 ### Libraries
